@@ -1,7 +1,7 @@
 {
-  "name": "api-breakingnews",
+  "name": "api-minha-biblioteca",
   "version": "1.0.0",
-  "description": "API for SPA Braking News",
+  "description": "API para a SPA Minha Biblioteca",
   "main": "index.js",
   "type": "module",
   "scripts": {
